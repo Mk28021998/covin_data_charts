@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.vaccination-by-age-cont {
+  background-color: #1c1c2b;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
